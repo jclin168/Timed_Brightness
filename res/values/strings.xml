@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app2_name">A Timed Brightness</string>
+    <string name="app_name">A Timed Brightness Widget</string>
+    <string name="txtManualOverride">Manual Override</string>
+    <string name="txtAutoHide">Auto close after click</string>
+    <string name="txtAutomatic">Automatic Mode</string>
+    <string name="txtSchedule">Schedule</string>
+    <string name="txtConfig">Config</string>
+    <string name="btnClearAll">Clear All</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnOK">Save</string>
+    <string name="txtContextMenuHint">Hold to popup context menu to modify/delete</string>
+    <string name="txtBrightnessLevelConfig">Brightness Level Schedule Configuration</string>
+    <string name="toastLimitation1">You can\'t temporarily disable automatic schedule in FREE version</string>
+    <string name="toastLimitation2">"Maximum schedule limitation reached. The FREE version has only THREE schedules available."</string>
+    <string name="toastScheduleSaved">Schedule Data Saved</string>
+    <string name="menuModify">Modify</string>
+    <string name="menuDelete">Delete</string>
+    <string name="menuAction">Action</string>
+    <string name="menuAbout">About...</string>
+    <string name="menuHelp">Help...</string>
+    <string name="menuExit">Close w/o Save</string>
+    <string name="menuWeb">Web</string>
+    <string name="dlgAboutMsg">A Timed Brightness Scheduler\\nVERSION\\n(C)2012 RombieSoft.\\n\\nWritten by JCLIN.\\nAll Right Reserved</string>
+    <string name="dlgHelpMsg">Using \"Add\" to create new schedule.\\nUsing \"Save\" to save and reschedule.\\n\\nNote: The LCD brightness won\'t be changed if you are using and time\'s up. It will be changed after LCD dims, power save, or unlocked</string>
+</resources>

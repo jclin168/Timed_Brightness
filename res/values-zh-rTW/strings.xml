@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app2_name">A定時亮度調節</string>
+    <string name="app_name">A定時亮度調節裝飾</string>
+    <string name="txtManualOverride">手動調節</string>
+    <string name="txtAutoHide">選擇亮度後自動關閉視窗</string>
+    <string name="txtAutomatic">自動調整模式</string>
+    <string name="txtSchedule">亮度時間排程</string>
+    <string name="txtConfig">設定</string>
+    <string name="btnClearAll">全部清除</string>
+    <string name="btnAdd">新增</string>
+    <string name="btnOK">儲存</string>
+    <string name="txtContextMenuHint">長按列表項目可以跳出內容選單供編輯/刪除</string>
+    <string name="txtBrightnessLevelConfig">亮度及時間排程設定</string>
+    <string name="toastLimitation1">您無法在免費的版本中將自動排程暫時關閉</string>
+    <string name="toastLimitation2">已經達到最大排程的限制. 免費版本僅提供提供三個可用排程數目</string>
+    <string name="toastScheduleSaved">排程資料已經儲存</string>
+    <string name="menuModify">修改時間或亮度</string>
+    <string name="menuDelete">刪除排程</string>
+    <string name="menuAction">選擇動作</string>
+    <string name="menuAbout">關於...</string>
+    <string name="menuHelp">說明...</string>
+    <string name="menuExit">不儲存離開</string>
+    <string name="menuWeb">前往網頁</string>
+    <string name="dlgHelpMsg">使用\"新增\"按鈕來增加新的排程.\\n使用\"儲存\"後才會更新排程.\\n\\n特別注意: 螢幕亮度不會在手機正使用中，且排程時間一到立刻變化，僅在螢幕亮度變暗、進入省電模式、或是鎖定後重開螢幕才套用新的亮度設定</string>
+
+</resources>

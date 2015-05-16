@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="50dip"
+              android:orientation="horizontal"
+        >
+    <ToggleButton android:layout_width="60dip"
+                  android:layout_height="fill_parent"
+                  android:textOff="OFF"
+                  android:textOn="ON"
+                  android:checked="true"
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="00:00 AM"
+            android:id="@+id/listItemTime"
+            android:textSize="25dp"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="25%"
+            android:id="@+id/listItemLevel"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+    <ImageView android:id="@+id/listItemDelete"
+               android:layout_width="48dip"
+               android:layout_height="48dip"
+               android:background="@android:color/background_light"
+               android:layout_gravity="center"
+               />
+</LinearLayout>
